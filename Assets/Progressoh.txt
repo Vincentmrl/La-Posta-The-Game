@@ -1,0 +1,31 @@
+[] Reparto Logico []
+
+[X] Movimento Giocatore
+[X] Sparamento Armi
+[X] Cambio Armi
+[X] Menù principale
+[X] Interfaccia Utente
+[X] Barra della vita (funzionante)
+[X] Minimappa
+[] Audio
+[X] Nemici
+[X] Movimento Nemici
+[X] Attacco Nemici
+[X] Salvataggio
+[] Menù Documenti
+[X] Controllo Livello
+
+[] Reparto Grafico []
+
+[] HUD
+[] Menù
+[] Giocatore
+[] Nemici
+[] Mappe
+[] Minimappa
+[] Proiettili
+[] Armi
+[] Muri
+[] Disattivare Mipmap per intenfaccia 
+
+
