@@ -1,4 +1,4 @@
-# La-Posta-The-Game
+# La Posta: The Game
 Game developed as a project for the high school diploma based on "La Posta" by De Roberto
 
 ## The Story
