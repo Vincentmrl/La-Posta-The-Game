@@ -7,7 +7,7 @@ La posta is a story about Cirino Valastro, a soldier that's part of an italian b
 The game takes place in a mission in which Cirino and other soldiers have to dismantle an enemy turret which was blocking supply trucks, including mail.
 
 ## How to play
-As it was developed for a diploma there was little time to correct some bugs. When starting the game press **ESC** twice to get to the menu, then press play.
+As it was developed for a diploma there was little time to correct some bugs, therefore when starting the game press **ESC** twice to get to the menu, then press play.
 
 ## Team members:
 Vincenzo Martino: 3D Modeling, graphics, GUI and co-programmer
